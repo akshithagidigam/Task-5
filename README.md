@@ -8,7 +8,7 @@ To analyze live network traffic using Wireshark by capturing packets, applying f
 1. Installed Wireshark from the official website.
 2. Opened Wireshark and started capturing on the active network interface (Wi-Fi).
 3. Generated network traffic by:
-   - Visiting https://www.example.com
+   - Visiting https://www.google.com
    - Running `ping google.com` in Command Prompt/Terminal
 4. Stopped the capture after approximately one minute.
 5. Applied filters in Wireshark to isolate specific protocols 
